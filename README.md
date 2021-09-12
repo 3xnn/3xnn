@@ -1,5 +1,6 @@
-# 3xnn
-Hi, I'm a BetterDiscord Plugin Developer, Discord Bot Developer, and Guilded Bot Developer
+# HEY PENGUIN!
+Looking for a new CPPS to play? We got you covered.
+# CPRehosted changes nothing, and just adds codes!
+Try it now!
 
-# My Plugins for BetterDiscord
-BetterDiscordNotifier - V1.0.6 is out c:
+https://3xnn.github.io/Club-Penguin-Rehosted
